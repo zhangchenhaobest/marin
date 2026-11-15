@@ -1,3 +1,29 @@
+# marin
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Open-source framework for the research and development of foundation models.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向基础模型研发的开源框架。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # <img alt="Marin" src="docs/design/marin-logo.svg" height="36" align="top"> Marin
 
 <a href="https://marin.readthedocs.io/en/latest/?badge=latest">
